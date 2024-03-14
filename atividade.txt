@@ -1,0 +1,52 @@
+Atividade 1: Modelagem de Livros
+
+Considere o seguinte cenário:
+
+Suponha que você está desenvolvendo um sistema de gerenciamento 
+escolar e precisa modelar a entidade Aluno.
+Crie uma classe chamada Aluno na linguagem que preferir com os 
+seguintes atributos: nome, matricula, idade e curso. 
+
+Adicione um método chamado mostrarInformacoes que retorna uma 
+string com todas as informações do aluno. Em seguida, 
+crie uma instância dessa classe e utilize o método mostrarInformacoes 
+para exibir os detalhes do aluno.
+
+
+
+Atividade 2: Modelagem de Praia
+
+Considere o seguinte cenário:
+
+Imagine que estamos desenvolvendo um aplicativo turístico e 
+precisa representar a entidade Praia. 
+
+Crie uma classe chamada Praia na linguagem que preferir com os 
+seguintes atributos: nome, localizacao, temperaturaAgua e tipoAreia. 
+
+Adicione um método chamado informacoesPraia que retorna uma 
+string com todas as informações da praia. 
+Em seguida, crie uma instância dessa classe e utilize o 
+método informacoesPraia para exibir os detalhes da praia.
+
+
+
+Atividade 3: Sistema de Reservas de Voos
+
+Considere o seguinte cenário:
+
+Você está desenvolvendo um sistema de reservas de voos e precisa 
+modelar a entidade Voo. 
+
+Crie uma classe chamada Voona linguagem que preferir que 
+represente a estrutura de um voo. 
+
+A classe deve ter os seguintes atributos: companhiaAerea, 
+origem, destino, dataPartida e precoPassagem. 
+
+Adicione um método chamado informacoesVooque retorne uma 
+string com todas as informações do voo. 
+
+Crie uma instância dessa classe, atribuindo valores aos 
+atributos, e utilize o método informacoesVoo para exibir 
+os detalhes do voo.
